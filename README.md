@@ -1,3 +1,7 @@
+# Warning
+
+This project is apart of a personal roblox script project, introducing client to client socket sending. Im experimenting with cloudflare as my backend.
+
 # Durable Objects Starter
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/templates/tree/main/hello-world-do-template)
